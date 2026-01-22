@@ -22,7 +22,7 @@
 </p>
 
 ---
-[**My Resume**](https://github.com/Abhirup27/abhirup27/blob/599685c24428ab676ff5a62e628cb23686819cd0/resume.pdf)
+[**My Website**](https://quantadude.github.io/dev-roop-blog/)
 ---
 ### Game Jams 🎮
 - [**IGDC BYOG 2025 - Cavesweeper**](https://itch.io/jam/byog/rate/3953906): Game made using C++ and raylib. My first game jam.
