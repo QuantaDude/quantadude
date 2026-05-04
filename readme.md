@@ -33,7 +33,7 @@
 ---
 ### My most recent project
 
-- [**Gruvbox Window Manager**](https://QuantaDude/gwm): A Desktop Environment built upon DWM, dwmblocks-async, and dunst.
+- [**Gruvbox Window Manager**](https://www.github.com/QuantaDude/gwm): A Desktop Environment built upon DWM, dwmblocks-async, and dunst.
 
   <a href="https://github.com/QuantaDude/gwm">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=QuantaDude&repo=gwm&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF" alt="Gruvbox Window Manager"/>
