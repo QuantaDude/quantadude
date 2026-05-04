@@ -44,11 +44,11 @@
 
 <p align="left">
   <a href="https://x.com/ab27roop">
-   <img  alt="Abhirup | Twitter" width="30px" src="https://camo.githubusercontent.com/9bcbd9a3ec9d12f94179b217cbfa8404485d08e7abc05752a1ce6f532f9565c4/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f3334342f747769747465722d2d76312e706e67" data-canonical-src="https://img.icons8.com/color/344/twitter--v1.png" style="max-width: 100%;">
+   <img  alt="Abhirup | Twitter" width="30px" src="https://img.icons8.com/?size=100&id=ClbD5JTFM7FA&format=png&color=000000" data-canonical-src="https://img.icons8.com/?size=100&id=ClbD5JTFM7FA&format=png&color=000000" style="max-width: 100%;">
   </a>
   &emsp;
   <a href="https://discordapp.com/users/429699609997213736">
-  <img alt="Roop | Discord" width="30px" src="https://camo.githubusercontent.com/8930560b7fec71d3103e26003eef2ce06a657c04d69340814ef134e41ab01e23/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f3334342f646973636f72642d6c6f676f2e706e67" data-canonical-src="https://img.icons8.com/color/344/discord-logo.png" style="max-width: 100%;">
+  <img alt="Roop | Discord" width="30px" src="https://img.icons8.com/?size=100&id=D2NqKl85S8Ye&format=png&color=000000" data-canonical-src="https://img.icons8.com/?size=100&id=D2NqKl85S8Ye&format=png&color=000000" style="max-width: 100%;">
   </a>
 </p>
 
@@ -63,35 +63,11 @@
 ### Game Development
 
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/zig/zig-original.svg" alt="Zig" width="40" height="40" align="left"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C Logo" width="40" height="40" style="border-radius: 50%;" align="left"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" alt="CMake" width="40" height="40" align="left"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opengl/opengl-original.svg" alt="OpenGL" width="40" height="40" style="border-radius: 50%;" align="left"/> <svg role="img" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg" width="40" height="40">
-    <path d="M0 0v40h40V0H0Zm2.5 2.5h35v35h-35v-35Zm24.688333333333336 25.781666666666666v5.468333333333334h1.5616666666666668v-0.7816666666666666h-0.7816666666666666V28.28333333333333h-0.78Zm2.3433333333333333 0v0.78h0.78v-0.78h-0.78Zm1.5616666666666668 0v5.468333333333334H35v-3.9066666666666667h-3.125v-1.5616666666666668h-0.7816666666666666Zm-17.968333333333334 1.5616666666666668v3.9066666666666667h0.7816666666666666v-3.125h3.125v-0.7816666666666666H13.125Zm4.6883333333333335 0v0.7816666666666666h3.1233333333333335v0.7816666666666666h-3.1233333333333335v2.3433333333333333h3.9050000000000002v-3.9066666666666667h-3.9066666666666667Zm4.6866666666666665 0v3.9066666666666667h3.125v0.7816666666666666H22.5v0.78h3.9066666666666667v-5.466666666666667h-0.7816666666666666v3.1233333333333335h-2.3433333333333333v-3.125H22.5Zm7.031666666666667 0v3.9066666666666667h0.78v-3.9066666666666667h-0.78Zm2.3433333333333333 0.7816666666666666h2.3433333333333333v2.3433333333333333h-2.3433333333333333v-2.3433333333333333Zm-13.281666666666668 1.5633333333333332h2.3433333333333333v0.78h-2.3433333333333333v-0.78Z" fill="#ff0000" align="left"/>  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Logo_Aseprite.svg/2880px-Logo_Aseprite.svg.png" alt="Aseprite" width="40" height="40" align="left"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/zig/zig-original.svg" alt="Zig" width="40" height="40" align="left"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C Logo" width="40" height="40" style="border-radius: 50%;" align="left"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" alt="CMake" width="40" height="40" align="left"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opengl/opengl-original.svg" alt="OpenGL" width="40" height="40" style="border-radius: 50%;" align="left"/> 
+<img src="https://img.icons8.com/?size=100&id=4HbiSXA9b90z&format=png&color=000000" alt="Aseprite" width="40" height="40" align="left"/>
 
 
-    
-### IDE
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg" alt="Neovim logo" width="40" height="40" style="border-radius: 50%;" align="left"/>
-  
-### Operating System
-
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="linux mascot" width="40" height="40" align="left"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" alt="Arch linux btw" width="40" height="40" align="left"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fedora/fedora-original.svg" alt="tips fedora" width="40" height="40" align="left"/>
-  </p>        
-  
-  
-### 3D, Video/ Photo editing
-
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" alt="Blender Logo" width="40" height="40" style="border-radius: 50%;" align="left"/><img src="https://upload.wikimedia.org/wikipedia/commons/4/45/The_GIMP_icon_-_gnome.svg" alt="GIMP " width="40" height="40" style="border-radius: 50%;" align="left"/> <img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/DaVinci_Resolve_Studio.png" alt="Davinci Resolve" width="40" height="40" align="left"/>
-</p>
-
-
-### Other (Not used in a while)
-
-  <p>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python Logo" width="40" height="40" style="border-radius: 50%;" align="left"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40" style="border-radius: 50%;" align="left"/>
-  </p>
-
+<br>
 ---
 
 ### Community Projects I Have Worked On 🌍
