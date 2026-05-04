@@ -33,10 +33,10 @@
 ---
 ### My most recent project
 
-- [**Shopify Store Management App**](https://github.com/Abhirup27/shopify_app): Backend project built using TypeScript, NodeJS, NestJS, ExpressJS, GraphQL, Redis, BullMQ, postgreSQL.
+- [**Shopify Store Management App**](https://github.com/Abhirup27/gwm): A Desktop Environment built upon DWM, dwmblocks-async, and dunst.
 
-  <a href="https://github.com/QuantaDude/shopify_app">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=QuantaDude&repo=shopify_app&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF" alt="Shopify Store Management App"/>
+  <a href="https://github.com/QuantaDude/gwm">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=QuantaDude&repo=gwm&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF" alt="Gruvbox Window Manager"/>
   </a>
 
 ---
