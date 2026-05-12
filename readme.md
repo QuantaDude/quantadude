@@ -112,9 +112,3 @@
     <img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/>
   </a>
 </p>
-
-<div align-"center">
-  
-  [![Discord Presence](https://lanyard.cnrad.dev/api/429699609997213736?hideDecoration=false&animatedDecoration=true&idleMessage=I%20am%20reading%20something&showDisplayName=true)](https://discord.com/users/429699609997213736)
-  
-</div>
