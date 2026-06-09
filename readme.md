@@ -58,17 +58,20 @@
 ### Web Development
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wasm/wasm-original.svg" alt="Web Assembly" width="40" height="40" align="left"/> <img src="https://devicons.io/devicons/icons/c-plusplus.svg" alt="C++" width="40" height="40" align="left"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="TypeScript Logo" width="40" height="40" align="left"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript (intermediate)" width="40" height="40"  align="left"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" alt="NestJS" width="40" height="40" align="left"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"  align="left"/><img src="https://www.svgrepo.com/show/330398/express.svg" alt="Express.js (Intermediate)" width="40" height="40"  align="left"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML (Intermediate)" width="40" height="40" align="left"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" alt="Redis (beginner)" width="40" height="40" align="left"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="PostgreSQL (beginner)" width="40" height="40" align="left"/>&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS EC2, Route53 (beginner)" width="40" height="40" align="left"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React.js " width="40" height="40" style="border-radius: 50%;" align="left"/>
-
-
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" alt="NestJS" width="40" height="40" align="left"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"  align="left"/><img src="https://www.svgrepo.com/show/330398/express.svg" alt="Express.js (Intermediate)" width="40" height="40"  align="left"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML (Intermediate)" width="40" height="40" align="left"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React.js " width="40" height="40" style="border-radius: 50%;" align="left"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" alt="Redis (beginner)" width="40" height="40" align="left"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="PostgreSQL (beginner)" width="40" height="40" align="left"/>&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS EC2, Route53 (beginner)" width="40" height="40" align="left"/> <img src="https://devicons.io/devicons/icons/vitest.svg" alt="React.js " width="40" height="40" style="border-radius: 50%;" align="left"/>
 ### Game Development
 
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/zig/zig-original.svg" alt="Zig" width="40" height="40" align="left"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C Logo" width="40" height="40" style="border-radius: 50%;" align="left"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" alt="CMake" width="40" height="40" align="left"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opengl/opengl-original.svg" alt="OpenGL" width="40" height="40" style="border-radius: 50%;" align="left"/> 
 <img src="https://img.icons8.com/?size=100&id=4HbiSXA9b90z&format=png&color=000000" alt="Aseprite" width="40" height="40" align="left"/>
 
+### IDEs
+
+<img src="https://devicons.io/devicons/icons/neovim.svg" alt="Neovim" width="40" height="40" style="border-radius: 50%;" align="center"/> 
+<img src="https://devicons.io/devicons/icons/clion.svg" alt="Clion" width="40" height="40" align="center"/>
 
 <br>
+
 ---
 
 ### Community Projects I Have Worked On 🌍
