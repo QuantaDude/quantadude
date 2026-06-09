@@ -1,118 +1,112 @@
-<a href="https://komarev.com/ghpvc/?username=QuantaDude">
-  <img align="right" src="https://komarev.com/ghpvc/?username=QuantaDude&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
+<div align="right">
+  <a href="https://komarev.com/ghpvc/?username=QuantaDude">
+    <img src="https://komarev.com/ghpvc/?username=QuantaDude&label=Visitors&color=7F3FBF&style=flat" alt="Profile visitors" />
+  </a>
+</div>
+
+<h1>Abhirup Bhattacharyya</h1>
+
+**Systems programmer & full-stack developer** — I build things where the browser meets the metal.
+
+MCA graduate specializing in **WebAssembly + C/C++** for the web, and **NestJS + PostgreSQL** on the backend. I gravitate toward technically hard problems: real-time collaboration, low-level graphics, and systems that need to be both fast and correct.
+
+---
+
+## Featured Projects
+
+### 📊 Algorithm Visualizer
+An interactive, step-through algorithm visualizer that runs entirely in the browser — no server, no runtime. Written in **C with raylib**, compiled to **WebAssembly via Emscripten**, and embedded in a React shell.
+
+BFS implemented with a node-graph canvas, adjacency matrix, and step-through engine. DFS and Dijkstra's coming next.
+
+`C` `raylib` `WebAssembly/Emscripten` `React` `TypeScript` `GitHub Pages`
+
+🔗 [**Live Demo**](https://quantadude.github.io/algo-visualizer/) · [**Source**](https://github.com/QuantaDude/algo-visualizer)
+
+---
+### 🎨 Collaborative Pixel Art & Drawing App *(in development)*
+A real-time collaborative canvas. The rendering core will be written in **C++ compiled to WebAssembly**, while **Socket.io** will be used over a **NestJS** backend to synchronize strokes across clients in real time.
+
+`C++` `WebAssembly/Emscripten` `React` `TypeScript` `NestJS` `Socket.io` `PostgreSQL` `Redis`
+
+---
+
+### 🎮 Cavesweeper — IGDC BYOG 2025
+A complete game shipped in a 72-hour game jam. Built entirely in **C++ and raylib**, compiled to WASM and deployed to the web.
+
+<a href="https://27roop.itch.io/cavesweeper">
+Play Cavesweeper in your browser
 </a>
-<h2 align="center">
-  Hello! and welcome!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h2>
 
-<h3 align="center">
-  <samp style="color: #00ff00; font-family: 'Courier New', Courier, monospace;">root@linux:~$ I am Abhirup!</samp>
-</h3>
+
+<a href="https://github.com/QuantaDude/IGDC-game-jam-2025">
+Cavesweeper repo
+</a>
 
 ---
 
-<p align="left">
-🌱 Graduated with a Master degree in Computer Applications, interested in Computer Graphics, Game Development and Back-end Web Development. <br>
-💼 I specialize in building high-performance web applications using <strong>WebAssembly, C++, Node.js, and TypeScript</strong> with modern frameworks like <strong>NestJS</strong> and <strong>React</strong>. I leverage <strong>Redis</strong> for caching and <strong>PostgreSQL</strong> for robust database solutions. <br>
-🧠 I use C/C++ and Zig for systems programming and game development, and JavaScript and TypeScript for web development. <br>
-🌱 Open to new opportunities.<br>
-💬 Ask me about anything related to web or game development!<br>
-📫 Feel free to connect with me on <a href="https://x.com/ab27roop">Twitter</a> or <a href="https://discordapp.com/users/429699609997213736">Discord</a>!<br>
-<!-- 🌍 Check out my portfolio <a href="https://Abhirup.com">here</a>. --!>
-</p>
+### 🪟 Gruvbox Window Manager
+A custom desktop environment built on DWM, dwmblocks-async, and dunst. Because the tools you use every day should feel exactly right.
 
----
-[**My Website**](https://quantadude.github.io/dev-roop-blog/)
----
-### Game Jams 🎮
-- [**IGDC BYOG 2025 - Cavesweeper**](https://itch.io/jam/byog/rate/3953906): Game made using C++ and raylib. My first game jam.
-  
-  <a href="https://github.com/QuantaDude/IGDC-game-jam-2025">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=QuantaDude&repo=IGDC-game-jam-2025&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF" alt="IGDC Game Jam 2025"/>
-  </a>
----
-### My most recent project
-
-- [**Gruvbox Window Manager**](https://www.github.com/QuantaDude/gwm): A Desktop Environment built upon DWM, dwmblocks-async, and dunst.
-
-  <a href="https://github.com/QuantaDude/gwm">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=QuantaDude&repo=gwm&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF" alt="Gruvbox Window Manager"/>
-  </a>
-
----
-### Contact me 📫
-
-<p align="left">
-  <a href="https://x.com/ab27roop">
-   <img  alt="Abhirup | Twitter" width="30px" src="https://img.icons8.com/?size=100&id=ClbD5JTFM7FA&format=png&color=000000" data-canonical-src="https://img.icons8.com/?size=100&id=ClbD5JTFM7FA&format=png&color=000000"/>
-  </a>
-  &emsp;
-  <a href="https://discordapp.com/users/429699609997213736">
-  <img alt="Roop | Discord" width="30px" src="https://img.icons8.com/?size=100&id=D2NqKl85S8Ye&format=png&color=000000" data-canonical-src="https://img.icons8.com/?size=100&id=D2NqKl85S8Ye&format=png&color=000000"/>
-  </a>
-</p>
-
----
-### Tools I Use (Skills) 🛠️
-
-### Web Development
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wasm/wasm-original.svg" alt="Web Assembly" width="40" height="40" align="left"/> <img src="https://devicons.io/devicons/icons/cplusplus.svg" alt="C++" width="40" height="40" align="left"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40" align="left"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" align="left"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React" width="40" height="40" align="left"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" alt="NestJS" width="40" height="40" align="left"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" alt="Redis" width="40" height="40" align="left"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40" align="left"/>
-
-### Game Development
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/zig/zig-original.svg" alt="Zig" width="40" height="40" align="left"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" align="left"/> <img src="https://img.icons8.com/?size=100&id=4HbiSXA9b90z&format=png&color=000000" alt="Aseprite" width="40" height="40" align="left"/>
-
-<br>
-
-### IDEs
-
-<img src="https://devicons.io/devicons/icons/neovim.svg" alt="Neovim" width="40" height="40" style="border-radius: 50%;" align="left"/> <img src="https://devicons.io/devicons/icons/clion.svg" alt="Clion" width="40" height="40" align="left"/>
-
-<br>
+<a href="https://github.com/QuantaDude/gwm">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=QuantaDude&repo=gwm&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF" alt="Gruvbox Window Manager repo"/>
+</a>
 
 ---
 
-### Community Projects I Have Worked On 🌍
+## Open Source Contributions
 
-- [**Lowest Level Dungeon**](https://github.com/meemknight/lowestleveldungeon): I worked on the map generation, and the tile placement logic.
+**[Lowest Level Dungeon](https://github.com/meemknight/lowestleveldungeon)** — Contributed map generation logic and tile placement system.
 
-  <a href="https://github.com/meemknight/lowestleveldungeon">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=meemknight&repo=lowestleveldungeon&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF" alt="Lowest Level Dungeon"/>
-  </a>
+<a href="https://github.com/meemknight/lowestleveldungeon">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=meemknight&repo=lowestleveldungeon&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF" alt="Lowest Level Dungeon repo"/>
+</a>
 
 ---
 
-<h3 align="center">
-  <samp style="color: #00ff00; font-family: 'Courier New', Courier, monospace;">GitHub Stats</samp>
-</h3>
+## Skills
+
+**Systems & Graphics**
+`C` `C++` `WebAssembly` `Emscripten` `raylib` `OpenGL` `CMake` `Zig`
+
+**Web — Backend**
+`Node.js` `NestJS` `PostgreSQL` `Redis` `REST` `WebSockets` `Socket.io`
+
+**Web — Frontend**
+`React` `TypeScript` `HTML5` `CSS` `Vite` `Vitest`
+
+**Infrastructure & Tooling**
+`Linux` `Neovim` `Git` `Docker` `AWS (EC2, Route53)` `Caddy`
+
+---
+
+## GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/QuantaDude">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=QuantaDude&theme=radical&border=7F3FBF&background=0D1117" alt="Abhirup's GitHub streak"/>
-  </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=QuantaDude&theme=radical&border=7F3FBF&background=0D1117" alt="GitHub streak" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/QuantaDude">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=QuantaDude&theme=radical" alt="Abhirup's GitHub Contribution"/>
-  </a>
+  <img src="https://denvercoder1-github-readme-stats.vercel.app/api?username=QuantaDude&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%" alt="GitHub stats" />
+  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=QuantaDude&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%" alt="Top languages" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/QuantaDude">
-    <img alt="Abhirup's GitHub Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=QuantaDude&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF"/>
-  </a>
-  <a href="https://github.com/QuantaDude">
-    <img alt="Abhirup's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=QuantaDude&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF"/>
-  </a>
-</p>
+![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=QuantaDude&custom_title=GitHub%20Activity&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
-![QuantaDude's Graph](https://github-readme-activity-graph.vercel.app/graph?username=QuantaDude&custom_title=Abhirup%20Bhattacharyya's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=7F3FBF&area=true&hide_border=true)
+---
 
-<p align="center">
-  <a href="https://github.com/QuantaDude?tab=repositories" target="_blank">
-    <img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/>
-  </a>
-</p>
+## Let's Talk
+
+I'm open to roles in **systems programming**, **backend development**, or anything at the intersection of both.
+
+<a href="https://x.com/ab27roop">
+  <img alt="Twitter" width="28px" src="https://img.icons8.com/?size=100&id=ClbD5JTFM7FA&format=png&color=000000"/>
+</a>
+&emsp;
+<a href="https://discordapp.com/users/429699609997213736">
+  <img alt="Discord" width="28px" src="https://img.icons8.com/?size=100&id=D2NqKl85S8Ye&format=png&color=000000"/>
+</a>
+&emsp;
+<a href="https://quantadude.github.io/dev-roop-blog/">
+  <img alt="Website" width="28px" src="https://img.icons8.com/?size=100&id=3723&format=png&color=000000"/>
+</a>
