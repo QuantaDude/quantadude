@@ -14,7 +14,8 @@
 
 <p align="left">
 🌱 Graduated with a Master degree in Computer Applications, interested in Computer Graphics, Game Development and Back-end Web Development. <br>
-🧠 I use C/C++, Zig for system's programming, game development, computer grahpics and JavaScript and TypeScript for web development. <br>
+💼 I specialize in building high-performance web applications using <strong>WebAssembly, C++, Node.js, and TypeScript</strong> with modern frameworks like <strong>NestJS</strong> and <strong>React</strong>. I leverage <strong>Redis</strong> for caching and <strong>PostgreSQL</strong> for robust database solutions. <br>
+🧠 I use C/C++ and Zig for systems programming and game development, and JavaScript and TypeScript for web development. <br>
 🌱 Open to new opportunities.<br>
 💬 Ask me about anything related to web or game development!<br>
 📫 Feel free to connect with me on <a href="https://x.com/ab27roop">Twitter</a> or <a href="https://discordapp.com/users/429699609997213736">Discord</a>!<br>
@@ -28,7 +29,7 @@
 - [**IGDC BYOG 2025 - Cavesweeper**](https://itch.io/jam/byog/rate/3953906): Game made using C++ and raylib. My first game jam.
   
   <a href="https://github.com/QuantaDude/IGDC-game-jam-2025">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=QuantaDude&repo=IGDC-game-jam-2025&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF" alt="Cavesweeper github repo"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=QuantaDude&repo=IGDC-game-jam-2025&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF" alt="IGDC Game Jam 2025"/>
   </a>
 ---
 ### My most recent project
@@ -44,11 +45,11 @@
 
 <p align="left">
   <a href="https://x.com/ab27roop">
-   <img  alt="Abhirup | Twitter" width="30px" src="https://img.icons8.com/?size=100&id=ClbD5JTFM7FA&format=png&color=000000" data-canonical-src="https://img.icons8.com/?size=100&id=ClbD5JTFM7FA&format=png&color=000000" style="max-width: 100%;">
+   <img  alt="Abhirup | Twitter" width="30px" src="https://img.icons8.com/?size=100&id=ClbD5JTFM7FA&format=png&color=000000" data-canonical-src="https://img.icons8.com/?size=100&id=ClbD5JTFM7FA&format=png&color=000000"/>
   </a>
   &emsp;
   <a href="https://discordapp.com/users/429699609997213736">
-  <img alt="Roop | Discord" width="30px" src="https://img.icons8.com/?size=100&id=D2NqKl85S8Ye&format=png&color=000000" data-canonical-src="https://img.icons8.com/?size=100&id=D2NqKl85S8Ye&format=png&color=000000" style="max-width: 100%;">
+  <img alt="Roop | Discord" width="30px" src="https://img.icons8.com/?size=100&id=D2NqKl85S8Ye&format=png&color=000000" data-canonical-src="https://img.icons8.com/?size=100&id=D2NqKl85S8Ye&format=png&color=000000"/>
   </a>
 </p>
 
@@ -57,18 +58,17 @@
 
 ### Web Development
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wasm/wasm-original.svg" alt="Web Assembly" width="40" height="40" align="left"/> <img src="https://devicons.io/devicons/icons/c-plusplus.svg" alt="C++" width="40" height="40" align="left"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="TypeScript Logo" width="40" height="40" align="left"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript (intermediate)" width="40" height="40"  align="left"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" alt="NestJS" width="40" height="40" align="left"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"  align="left"/><img src="https://www.svgrepo.com/show/330398/express.svg" alt="Express.js (Intermediate)" width="40" height="40"  align="left"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML (Intermediate)" width="40" height="40" align="left"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React.js " width="40" height="40" style="border-radius: 50%;" align="left"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" alt="Redis (beginner)" width="40" height="40" align="left"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="PostgreSQL (beginner)" width="40" height="40" align="left"/>&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS EC2, Route53 (beginner)" width="40" height="40" align="left"/> <img src="https://devicons.io/devicons/icons/vitest.svg" alt="React.js " width="40" height="40" style="border-radius: 50%;" align="left"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wasm/wasm-original.svg" alt="Web Assembly" width="40" height="40" align="left"/> <img src="https://devicons.io/devicons/icons/cplusplus.svg" alt="C++" width="40" height="40" align="left"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40" align="left"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" align="left"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React" width="40" height="40" align="left"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" alt="NestJS" width="40" height="40" align="left"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" alt="Redis" width="40" height="40" align="left"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40" align="left"/>
+
 ### Game Development
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/zig/zig-original.svg" alt="Zig" width="40" height="40" align="left"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" align="left"/> <img src="https://img.icons8.com/?size=100&id=4HbiSXA9b90z&format=png&color=000000" alt="Aseprite" width="40" height="40" align="left"/>
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/zig/zig-original.svg" alt="Zig" width="40" height="40" align="left"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C Logo" width="40" height="40" style="border-radius: 50%;" align="left"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" alt="CMake" width="40" height="40" align="left"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opengl/opengl-original.svg" alt="OpenGL" width="40" height="40" style="border-radius: 50%;" align="left"/> 
-<img src="https://img.icons8.com/?size=100&id=4HbiSXA9b90z&format=png&color=000000" alt="Aseprite" width="40" height="40" align="left"/>
+<br>
 
 ### IDEs
 
-<img src="https://devicons.io/devicons/icons/neovim.svg" alt="Neovim" width="40" height="40" style="border-radius: 50%;" align="center"/> 
-<img src="https://devicons.io/devicons/icons/clion.svg" alt="Clion" width="40" height="40" align="center"/>
+<img src="https://devicons.io/devicons/icons/neovim.svg" alt="Neovim" width="40" height="40" style="border-radius: 50%;" align="left"/> <img src="https://devicons.io/devicons/icons/clion.svg" alt="Clion" width="40" height="40" align="left"/>
 
 <br>
 
@@ -102,14 +102,14 @@
 
 <p align="center">
   <a href="https://github.com/QuantaDude">
-    <img alt="Abhirup's GitHub Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=QuantaDude&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/>
+    <img alt="Abhirup's GitHub Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=QuantaDude&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF"/>
   </a>
   <a href="https://github.com/QuantaDude">
-    <img alt="Abhirup's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=QuantaDude&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/>
+    <img alt="Abhirup's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=QuantaDude&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF"/>
   </a>
 </p>
 
-![QuantaDude's Graph](https://github-readme-activity-graph.vercel.app/graph?username=QuantaDude&custom_title=Abhirup%20Bhattacharyya's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![QuantaDude's Graph](https://github-readme-activity-graph.vercel.app/graph?username=QuantaDude&custom_title=Abhirup%20Bhattacharyya's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=7F3FBF&area=true&hide_border=true)
 
 <p align="center">
   <a href="https://github.com/QuantaDude?tab=repositories" target="_blank">
