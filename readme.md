@@ -21,7 +21,7 @@ BFS implemented with a node-graph canvas, adjacency matrix, and step-through eng
 
 `C` `raylib` `WebAssembly/Emscripten` `React` `TypeScript` `GitHub Pages`
 
-🔗 [**Live Demo**](https://quantadude.github.io/algo-visualizer/) · [**Source**](https://github.com/QuantaDude/algo-visualizer)
+🔗 [**Live Demo**](https://quantadude.github.io/algoplex/) · [**Source**](https://github.com/QuantaDude/algoplex)
 
 ---
 ### 🎨 Collaborative Pixel Art & Drawing App *(in development)*
