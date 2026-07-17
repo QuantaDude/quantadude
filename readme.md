@@ -24,7 +24,7 @@ BFS implemented with a node-graph canvas, adjacency matrix, and step-through eng
 🔗 [**Live Demo**](https://quantadude.github.io/algoplex/) · [**Source**](https://github.com/QuantaDude/algoplex)
 
 ---
-### 🎨 Collaborative Pixel Art & Drawing App *(in development)*
+### 🎨 Collaborative Pixel Art & Drawing App *(not in development yet)*
 A real-time collaborative canvas. The rendering core will be written in **C++ compiled to WebAssembly**, while **Socket.io** will be used over a **NestJS** backend to synchronize strokes across clients in real time.
 
 `C++` `WebAssembly/Emscripten` `React` `TypeScript` `NestJS` `Socket.io` `PostgreSQL` `Redis`
