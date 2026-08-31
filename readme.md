@@ -8,7 +8,9 @@
 
 **Systems programmer & full-stack developer** — I build things where the browser meets the metal.
 
-MCA graduate specializing in **WebAssembly + C/C++** for the web, and **NestJS + PostgreSQL** on the backend. I gravitate toward technically hard problems: real-time collaboration, low-level graphics, and systems that need to be both fast and correct.
+MCA graduate specializing in **C/C++, CMake** for systems programming, and **TypeScript, NodeJS, NestJS, Redis, PostgreSQL, React, Vite and WebAssembly** for full-stack development. I have knowledge of **Docker, Linux, SSH, EC2, Oracle cloud**, I use these to deploy my applications on the web. I gravitate toward technically hard problems: real-time collaboration, low-level graphics, and systems that need to be both fast and correct.
+
+Currently I am making a code retrieval application using RAG, by using sentence transformers and pgvector. I'm also going to be updating my most recent deployed project: Algorithm Visualizer. 
 
 ---
 
