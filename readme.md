@@ -16,6 +16,16 @@ Currently I am making a code retrieval application using RAG, by using sentence 
 
 ## Featured Projects
 
+### RAG Code Retrieval
+
+A Retrieval-Augmented Generation system for searching a codebase using natural language.
+
+`TypeScript` `PNPM` `Node.js` `PostgreSQL` `pgvector`
+
+[**Source**](https://github.com/QuantaDude/RAG-codebase/)
+
+---
+
 ### 📊 Algorithm Visualizer
 An interactive, step-through algorithm visualizer that runs entirely in the browser — no server, no runtime. Written in **C with raylib**, compiled to **WebAssembly via Emscripten**, and embedded in a React shell.
 
@@ -42,7 +52,7 @@ Cavesweeper repo
 ---
 
 ### 🪟 Gruvbox Window Manager
-A custom desktop environment built on DWM, dwmblocks-async, and dunst. Because the tools you use every day should feel exactly right.
+A custom desktop environment built on DWM, dwmblocks-async, and dunst.
 
 <a href="https://github.com/QuantaDude/gwm">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=QuantaDude&repo=gwm&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF" alt="Gruvbox Window Manager repo"/>
