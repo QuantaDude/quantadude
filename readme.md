@@ -51,25 +51,6 @@ Cavesweeper repo
 
 ---
 
-### 🪟 Gruvbox Window Manager
-A custom desktop environment built on DWM, dwmblocks-async, and dunst.
-
-<a href="https://github.com/QuantaDude/gwm">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=QuantaDude&repo=gwm&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF" alt="Gruvbox Window Manager repo"/>
-</a>
-
----
-
-## Open Source Contributions
-
-**[Lowest Level Dungeon](https://github.com/meemknight/lowestleveldungeon)** — Contributed map generation logic and tile placement system.
-
-<a href="https://github.com/meemknight/lowestleveldungeon">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=meemknight&repo=lowestleveldungeon&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF" alt="Lowest Level Dungeon repo"/>
-</a>
-
----
-
 ## Skills
 
 **Systems & Graphics**
