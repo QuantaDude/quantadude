@@ -1,20 +1,20 @@
-<div align="right">
-  <a href="https://komarev.com/ghpvc/?username=QuantaDude">
-    <img src="https://komarev.com/ghpvc/?username=QuantaDude&label=Visitors&color=7F3FBF&style=flat" alt="Profile visitors" />
-  </a>
+ <div align="right">
+  <img src="https://komarev.com/ghpvc/?username=QuantaDude&label=Visitors&color=D6B77A&style=flat" alt="Profile visitors" />
 </div>
 
-<h1>Abhirup Bhattacharyya</h1>
+# Abhirup Bhattacharyya
 
-**Systems programmer & full-stack developer** — I build things where the browser meets the metal.
+**Systems Programmer · Full-Stack Developer**
+
+I build things where the browser meets the metal.
 
 MCA graduate specializing in **C/C++, CMake** for systems programming, and **TypeScript, NodeJS, NestJS, Redis, PostgreSQL, React, Vite and WebAssembly** for full-stack development. I have knowledge of **Docker, Linux, SSH, EC2, Oracle cloud**, I use these to deploy my applications on the web. I gravitate toward technically hard problems: real-time collaboration, low-level graphics, and systems that need to be both fast and correct.
 
-Currently I am making a code retrieval application using RAG, by using sentence transformers and pgvector. I'm also going to be updating my most recent deployed project: Algorithm Visualizer. 
+Currently I am making a code retrieval application using RAG, by using sentence transformers and pgvector. I'm also going to be updating my most recent deployed project: Algorithm Visualizer.
 
 ---
 
-## Featured Projects
+## Projects
 
 ### RAG Code Retrieval
 
@@ -22,63 +22,53 @@ A Retrieval-Augmented Generation system for searching a codebase using natural l
 
 `TypeScript` `PNPM` `Node.js` `PostgreSQL` `pgvector`
 
-[**Source**](https://github.com/QuantaDude/RAG-codebase/)
+[Source](https://github.com/QuantaDude/RAG-codebase/)
 
----
+### Algorithm Visualizer
 
-### 📊 Algorithm Visualizer
 An interactive, step-through algorithm visualizer that runs entirely in the browser — no server, no runtime. Written in **C with raylib**, compiled to **WebAssembly via Emscripten**, and embedded in a React shell.
 
 BFS implemented with a node-graph canvas, adjacency matrix, and step-through engine. DFS and Dijkstra's coming next.
 
 `C` `raylib` `WebAssembly/Emscripten` `React` `TypeScript` `GitHub Pages`
 
-🔗 [**Live Demo**](https://quantadude.github.io/algoplex/) · [**Source**](https://github.com/QuantaDude/algoplex)
+[Live Demo](https://quantadude.github.io/algoplex/) · [Source](https://github.com/QuantaDude/algoplex)
 
----
+### Cavesweeper · IGDC BYOG 2025
 
-### 🎮 Cavesweeper — IGDC BYOG 2025
 A complete game shipped in a 72-hour game jam. Built entirely in **C++ and raylib**, compiled to WASM and deployed to the web.
 
-<a href="https://27roop.itch.io/cavesweeper">
-Play Cavesweeper in your browser
-</a>
-
-
-<a href="https://github.com/QuantaDude/IGDC-game-jam-2025">
-Cavesweeper repo
-</a>
+[Play Cavesweeper in your browser](https://27roop.itch.io/cavesweeper) · [Source](https://github.com/QuantaDude/IGDC-game-jam-2025)
 
 ---
 
 ## Skills
 
 **Systems & Graphics**
-`C` `C++` `WebAssembly` `Emscripten` `raylib` `OpenGL` `CMake` `Zig`
 
-**Web — Backend**
-`Node.js` `NestJS` `PostgreSQL` `Redis` `REST` `WebSockets` `Socket.io`
+`C` `C++` `WebAssembly` `Emscripten` `raylib` `OpenGL` `CMake`
 
-**Web — Frontend**
+**Web · Backend**
+
+`Node.js` `NestJS` `PostgreSQL` `Redis` `REST` `GraphQL`
+
+**Web · Frontend**
+
 `React` `TypeScript` `HTML5` `CSS` `Vite` `Vitest`
 
 **Infrastructure & Tooling**
+
 `Linux` `Neovim` `Git` `Docker` `AWS (EC2, Route53)` `Caddy`
 
 ---
 
-## GitHub Stats
+## GitHub
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=QuantaDude&theme=radical&border=7F3FBF&background=0D1117" alt="GitHub streak" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=QuantaDude&show_icons=true&hide_border=true&bg_color=0B0D10&title_color=D6B77A&text_color=C9D1D9&icon_color=A8C9D8&ring_color=C9828F" alt="GitHub statistics" />
+  &nbsp;
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=QuantaDude&layout=compact&hide_border=true&bg_color=0B0D10&title_color=D6B77A&text_color=C9D1D9&langs_count=6" alt="Most used languages" />
 </p>
-
-<p align="center">
-  <img src="https://denvercoder1-github-readme-stats.vercel.app/api?username=QuantaDude&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%" alt="GitHub stats" />
-  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=QuantaDude&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%" alt="Top languages" />
-</p>
-
-![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=QuantaDude&custom_title=GitHub%20Activity&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
 ---
 
@@ -86,14 +76,4 @@ Cavesweeper repo
 
 I'm open to roles in **systems programming**, **backend development**, or anything at the intersection of both.
 
-<a href="https://x.com/ab27roop">
-  <img alt="Twitter" width="28px" src="https://img.icons8.com/?size=100&id=ClbD5JTFM7FA&format=png&color=000000"/>
-</a>
-&emsp;
-<a href="https://discordapp.com/users/429699609997213736">
-  <img alt="Discord" width="28px" src="https://img.icons8.com/?size=100&id=D2NqKl85S8Ye&format=png&color=000000"/>
-</a>
-&emsp;
-<a href="https://quantadude.github.io/dev-roop-blog/">
-  <img alt="Website" width="28px" src="https://img.icons8.com/?size=100&id=3723&format=png&color=000000"/>
-</a>
+[Website](https://quantadude.github.io/dev-roop-blog/) · [X](https://x.com/ab27roop) · [Discord](https://discordapp.com/users/429699609997213736)
